@@ -7,9 +7,6 @@
 [submodule "plugins/redmine_ruby_code"]
 	path = plugins/redmine_ruby_code
 	url = https://github.com/ares/redmine_ruby_code.git
-[submodule "plugins/redmine_vote"]
-	path = plugins/redmine_vote
-	url = https://github.com/ares/redmine_vote.git
 [submodule "plugins/redmine_lightbox2"]
 	path = plugins/redmine_lightbox2
 	url = https://github.com/paginagmbh/redmine_lightbox2.git
